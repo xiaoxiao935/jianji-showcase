@@ -29,18 +29,18 @@
 
 | 账户首页 | 记一笔 | 统计 |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/01-home.png" width="240" alt="账户首页"> | <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/02-add.png" width="240" alt="记一笔"> | <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/03-stats.png" width="240" alt="统计"> |
+| <img src="https://xiaoxiao935.github.io/jianji-showcase/assets/screenshots/01-home.png" width="240" alt="账户首页"> | <img src="https://xiaoxiao935.github.io/jianji-showcase/assets/screenshots/02-add.png" width="240" alt="记一笔"> | <img src="https://xiaoxiao935.github.io/jianji-showcase/assets/screenshots/03-stats.png" width="240" alt="统计"> |
 
 | 预算 | 分类管理 | 速记模板 |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/04-budget.png" width="240" alt="预算"> | <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/05-categories.png" width="240" alt="分类管理"> | <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/06-quick.png" width="240" alt="速记模板"> |
+| <img src="https://xiaoxiao935.github.io/jianji-showcase/assets/screenshots/04-budget.png" width="240" alt="预算"> | <img src="https://xiaoxiao935.github.io/jianji-showcase/assets/screenshots/05-categories.png" width="240" alt="分类管理"> | <img src="https://xiaoxiao935.github.io/jianji-showcase/assets/screenshots/06-quick.png" width="240" alt="速记模板"> |
 
 截图来自微信开发者工具中的实际运行页面，账单与模板均为虚构演示数据；不代表真机或云端验收。
 
 
 ## 操作演示
 
-[<img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/demo/jianji-demo-poster.jpg" width="320" alt="简记·记账簿操作演示封面，点击打开视频">](https://xiaoxiao935.github.io/jianji-showcase/)
+[<img src="https://xiaoxiao935.github.io/jianji-showcase/assets/demo/jianji-demo-poster.jpg" width="320" alt="简记·记账簿操作演示封面，点击打开视频">](https://xiaoxiao935.github.io/jianji-showcase/)
 
 **[查看32秒操作演示](https://xiaoxiao935.github.io/jianji-showcase/)** · [下载视频](https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/demo/jianji-demo.webm)
 
@@ -70,6 +70,7 @@
 ## 反馈
 
 可通过 [Issues](https://github.com/xiaoxiao935/jianji-showcase/issues) 反馈。欢迎描述试用中的页面、操作步骤、预期与实际结果；请勿上传真实账单、账号配置或个人资料。
+
 
 
 
