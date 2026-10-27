@@ -2,7 +2,7 @@
 
 一个轻量、简洁的个人记账项目，集收支记录、预算管理、分类整理与统计回顾于一体。
 
-**[打开网页试用](https://jianji1602-jianji-showcase-d7fwl86y2a46e651.webapps.tcloudbase.com/)** · [产品预览](#产品预览) · [设计思路](#设计思路) · [实现概览](#实现概览) · [项目设计说明](docs/PROJECT_BRIEF.md)
+**[打开网页试用](https://jianji1602-jianji-showcase-d7fwl86y2a46e651.webapps.tcloudbase.com/)** · [产品预览](#产品预览) · [设计思路](#设计思路) · [实现概览](#实现概览) · [项目设计说明](docs/PROJECT_BRIEF.md) · [常见问题](docs/FAQ.md)
 
 本页用于展示项目成果、设计思路和实现概况。网页试用与下方截图来自不同运行环境，功能状态以各自实际版本为准。
 
@@ -44,7 +44,7 @@
 - **回顾更清楚**：首页呈现收支与账单，统计与预算承担进一步查看和管理的任务。
 - **视觉更统一**：使用米白背景、青绿主色与清晰的文字层级，保持页面之间的布局一致。
 
-更多背景和取舍见 [项目设计说明](docs/PROJECT_BRIEF.md)。
+更多背景和取舍见 [项目设计说明](docs/PROJECT_BRIEF.md) · [常见问题](docs/FAQ.md)。
 
 ## 实现概览
 
@@ -62,3 +62,4 @@
 ## 反馈
 
 可通过 [Issues](https://github.com/xiaoxiao935/jianji-showcase/issues) 反馈。欢迎描述试用中的页面、操作步骤、预期与实际结果；请勿上传真实账单、账号配置或个人资料。
+
