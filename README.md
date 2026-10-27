@@ -2,7 +2,7 @@
 
 一个轻量、简洁的个人记账项目，集收支记录、预算管理、分类整理与统计回顾于一体。
 
-**[打开网页试用](https://jianji1602-jianji-showcase-d7fwl86y2a46e651.webapps.tcloudbase.com/)** · [产品预览](#产品预览) · **[观看32秒演示](assets/demo/jianji-demo.webm)** · [设计思路](#设计思路) · [实现概览](#实现概览) · [项目设计说明](docs/PROJECT_BRIEF.md) · [常见问题](docs/FAQ.md)
+**[打开网页试用](https://jianji1602-jianji-showcase-d7fwl86y2a46e651.webapps.tcloudbase.com/)** · [产品预览](#产品预览) · **[观看32秒演示](https://xiaoxiao935.github.io/jianji-showcase/)** · [设计思路](#设计思路) · [实现概览](#实现概览) · [项目设计说明](docs/PROJECT_BRIEF.md) · [常见问题](docs/FAQ.md)
 
 本页用于展示项目成果、设计思路和实现概况。
 
@@ -29,20 +29,20 @@
 
 | 账户首页 | 记一笔 | 统计 |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/01-home.png" width="240" alt="账户首页"> | <img src="assets/screenshots/02-add.png" width="240" alt="记一笔"> | <img src="assets/screenshots/03-stats.png" width="240" alt="统计"> |
+| <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/01-home.png" width="240" alt="账户首页"> | <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/02-add.png" width="240" alt="记一笔"> | <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/03-stats.png" width="240" alt="统计"> |
 
 | 预算 | 分类管理 | 速记模板 |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/04-budget.png" width="240" alt="预算"> | <img src="assets/screenshots/05-categories.png" width="240" alt="分类管理"> | <img src="assets/screenshots/06-quick.png" width="240" alt="速记模板"> |
+| <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/04-budget.png" width="240" alt="预算"> | <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/05-categories.png" width="240" alt="分类管理"> | <img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/screenshots/06-quick.png" width="240" alt="速记模板"> |
 
 截图来自微信开发者工具中的实际运行页面，账单与模板均为虚构演示数据；不代表真机或云端验收。
 
 
 ## 操作演示
 
-[<img src="assets/demo/jianji-demo-poster.jpg" width="320" alt="简记·记账簿操作演示封面，点击打开视频">](assets/demo/jianji-demo.webm)
+[<img src="https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/demo/jianji-demo-poster.jpg" width="320" alt="简记·记账簿操作演示封面，点击打开视频">](https://xiaoxiao935.github.io/jianji-showcase/)
 
-**[查看32秒操作演示](assets/demo/jianji-demo.webm)** · [下载视频](https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/demo/jianji-demo.webm)
+**[查看32秒操作演示](https://xiaoxiao935.github.io/jianji-showcase/)** · [下载视频](https://raw.githubusercontent.com/xiaoxiao935/jianji-showcase/main/assets/demo/jianji-demo.webm)
 
 实际操作关键帧剪辑，非连续录屏；全部使用隔离虚构数据。展示新增28元支出、保存后回顾账单，以及预算、统计与速记页面。模拟器画面不代表网页或小程序正式上线状态。
 
@@ -70,6 +70,7 @@
 ## 反馈
 
 可通过 [Issues](https://github.com/xiaoxiao935/jianji-showcase/issues) 反馈。欢迎描述试用中的页面、操作步骤、预期与实际结果；请勿上传真实账单、账号配置或个人资料。
+
 
 
 
